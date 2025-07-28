@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE and editor files
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Test artifacts
+htmlcov/
+.tox/
+.coverage
+.coverage.*
